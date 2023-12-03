@@ -1,0 +1,27 @@
+Code Snippets
+- Random useful bits of code
+
+Chess-bot
+- A GUI that you can make moves with and select an AI you can play against
+	- New Game
+		- Chose Side / Random Choice
+		- Chose AI or Against Human Player
+	- uses python-chess to check for valid moves / if king in check or checkmate
+	- resign option
+	- Allows for a plug in AI that I create and iterate over (API?)
+- AI interface
+	- Allows my AI to know the state of the board after each move
+	- And make moves themselves
+- RNG AI
+	- Lists all valid moves
+	- Random choice from all valid moves
+- What would Grand Master X do (Can you train ML to play like a specific grandmaster)
+
+NBA ELO Predictor
+- Tidy up NBA ELO code and format into blog post
+
+F1 Predictor
+- Tidy up F1 predictor code and format into blog post
+
+Trading Strategies
+- Tidy up existing trading strategy code and format into blog post
